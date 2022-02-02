@@ -1,6 +1,6 @@
 ### Hi 👋  I am Abraham Ogbumah
 
-##I am a highly motivated software engineer with a strong foundation in programing principles. I derive pleaure in transforming design to codeand building highly scalable and perfomant solutions. Proficient in a variety of languages, with an innate ability to learn and master new technologies
+## I am a highly motivated software engineer with a strong foundation in programing principles. I derive pleaure in transforming design to codeand building highly scalable and perfomant solutions. Proficient in a variety of languages, with an innate ability to learn and master new technologies
 
 * Ask me about HTML, CSS, Javascript, ReactJS, Express, NodeJS
 * Reach me on ab.ogbumah@gmail.com
