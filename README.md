@@ -28,7 +28,7 @@ I am a highly motivated software engineer with a strong foundation in programing
 </p>
 
 
-- 🔭 I’m currently working on a project that consumes data from the rest countries apito display country information for users
+- 🔭 I’m currently working on project from FrontendMentor.io
 
 ## Connect with me on:
 
